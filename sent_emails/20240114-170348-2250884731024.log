@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: jorge@gmail.com
+Date: Sun, 14 Jan 2024 20:03:48 -0000
+Message-ID: <170526262831.4432.3106500298263812494@DESKTOP-245QMJD>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/Ng/c0sy2c-d15ec7a4e75a8fc5f69d89b26105b359/
+
+Your username, in case you’ve forgotten: jorge
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------

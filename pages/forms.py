@@ -13,3 +13,5 @@ class PageForm(forms.ModelForm):
             'content': forms.Textarea(attrs={'class':'form-control'}),
             'order': forms.NumberInput(attrs={'class':'form-control'})
         }
+        
+        
